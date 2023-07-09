@@ -1,0 +1,80 @@
+$date
+Sun Jul  9 08:51:33 2023
+$end
+$version
+Riviera-PRO Version 2022.04.117.8517
+$end
+$timescale
+1 ns
+$end
+
+$scope module test_uart_rx $end
+$var wire 7 ! data_out [6:0] $end
+$var reg 1 " data_in $end
+$var reg 1 # clk $end
+$upscope $end
+
+$enddefinitions $end
+$dumpvars
+b0 !
+0"
+0#
+$end
+#3
+1#
+#5
+1"
+#6
+0#
+#9
+1#
+#11
+0"
+#12
+0#
+#15
+1#
+#17
+1"
+#18
+0#
+#21
+1#
+#24
+0#
+#27
+1#
+#29
+0"
+#30
+0#
+#33
+1#
+#35
+1"
+#36
+0#
+#39
+1#
+#41
+0"
+#42
+0#
+#45
+1#
+#47
+1"
+#48
+0#
+#51
+1#
+#54
+0#
+#57
+1#
+b1010110 !
+#60
+0#
+#63
+1#
+#65
